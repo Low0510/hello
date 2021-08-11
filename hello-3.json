@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Nick",
+        "species": "dragon",
+        "foods": {
+            "likes: ": ["meat"],
+            "dislikes": ["palm"]
+        }
+    },
+    {
+        "name": "Moo",
+        "species": "cow",
+        "foods": {
+            "likes": ["grass","carrots"],
+            "dislikes": ["meat"]
+        }
+    },
+    {
+        "name": "Meeh",
+        "species": "goat",
+        "foods": {
+            "likes":["grass"],
+            "dislikes":["worm"]
+        }
+    }
+]
